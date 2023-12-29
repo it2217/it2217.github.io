@@ -23,6 +23,15 @@ body {
   color: #244376;
 }
 
+video {
+  max-width: fit-content;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
 #card {
   margin: 3em auto;
   display: flex;
